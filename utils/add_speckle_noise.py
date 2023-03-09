@@ -12,6 +12,6 @@ for image_path in images_path:
     gauss = gauss.reshape(img.shape[0],img.shape[1]).astype('uint8')
     noise = img + img * gauss
 
-    
+    noise = cv2.cvtColor(noise,cv2.COLOR_GRAY2RGB)
 
     cv2.imwrite(os.path.join(path_speckle, image_path), noise[:600, :600])
