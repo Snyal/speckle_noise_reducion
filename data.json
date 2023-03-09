@@ -1,0 +1,229 @@
+{
+    "images": [
+        {
+            "name": "fil20M.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "fil20M1.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "fil20M2.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "fil20M3.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "fil20M4.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "fil20M5.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "fil50M1.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "fil50M2.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "fil50M3.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "fil50M4.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "follicule_pileux20M.png",
+            "size": [
+                1024,
+                296,
+                3
+            ]
+        },
+        {
+            "name": "image1.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "image20M1.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "image20M2.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin20M1.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M1.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M2.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M3.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M4.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M5.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M6.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "lapin50M7.png",
+            "size": [
+                1024,
+                148,
+                3
+            ]
+        },
+        {
+            "name": "rein_souris20M1Grd.png",
+            "size": [
+                1024,
+                256,
+                3
+            ]
+        },
+        {
+            "name": "sonde20M1.png",
+            "size": [
+                1024,
+                296,
+                3
+            ]
+        },
+        {
+            "name": "sonde20M2.png",
+            "size": [
+                1024,
+                296,
+                3
+            ]
+        },
+        {
+            "name": "sonde20M3.png",
+            "size": [
+                1024,
+                296,
+                3
+            ]
+        },
+        {
+            "name": "sonde50M1.png",
+            "size": [
+                1024,
+                296,
+                3
+            ]
+        },
+        {
+            "name": "sonde50M2.png",
+            "size": [
+                1024,
+                296,
+                3
+            ]
+        }
+    ],
+    "total_size": 28672
+}
