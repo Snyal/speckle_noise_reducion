@@ -1,7 +1,7 @@
 VERRIER Thomas  
 BORDES Alexandre
 
-## Speckle noise reduction by DNN approch
+## Speckle noise reduction on ULTRASOUND images by DNN approch
 ![presentation](results/final_image_GAN.png)
 
 **--- INFO ---**
