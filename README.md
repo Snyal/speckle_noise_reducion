@@ -6,7 +6,7 @@ BORDES Alexandre
 
 **--- INFO ---**
 
-Tous les fichiers disponible pour faire marcher les .pynb sont sur : 
+Tous les fichiers disponibles pour faire marcher les .pynb sont sur : 
 https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sharing
 
 (il reste a votre charge de bien configurer les chemins d'accès)
@@ -19,10 +19,10 @@ Les modèles utilisés :
 
 - **DLSR** :  
 https://github.com/faisalml/DeepLSR  
-Vous pouvez trouver les resultats du DLSR dans `./data/results/DLSR`
+Vous pouvez trouver les résultats du DLSR dans `./data/results/DLSR`
     * compare : est la concaténation de l'image bruitée et débruitée
-    * final : est l'image débruité
-    * new : est l'image debruité avant le decoupage
+    * final : est l'image débruitée
+    * new : est l'image debruitée avant le découpage
 
 - **RDUNET** :
 https://github.com/JavierGurrola/RDUNet
