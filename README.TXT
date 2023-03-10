@@ -4,9 +4,11 @@ https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sha
 
 (il reste a votre charge de bien configurer les chemains d'accès)
 
-
-Image de test : 
+Lien pour accerder aux images de test : 
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/download?datasetVersionNumber=1
+
+Les modèles utilisés :
+(pour essayer ces modèle utiliser les fichier pynb)
 
 DLSR : 
 https://github.com/faisalml/DeepLSR
