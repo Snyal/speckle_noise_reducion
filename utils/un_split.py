@@ -4,7 +4,7 @@ import numpy as np
 import os
 import time
 
-save_path = "../data/results/DPIR"
+save_path = "../data/results/DLSR"
 path = os.path.join(save_path,"results")
 path_base = "../US_data/Autres"
 file = open("../data.json")
@@ -13,13 +13,15 @@ images_data = data_total["images"]
 
 for image_data in images_data:
     img_name = image_data["name"]
-    img_path = os.path.join(path, img_name)
+    img_path = os.path.join(path, img_name.split(".")[0]+'_fake_B.png')
     img_base_path = os.path.join(path_base, img_name)
     img_size = image_data["size"]
 
+  
     img = cv2.imread(img_path, 1)
     img = cv2.resize(img, dsize=(1024, 1024), interpolation=cv2.INTER_CUBIC)
 
+    print(img.shape)
     img_base = cv2.imread(img_base_path, 1)
     
     new_image = img[:img_size[0], :img_size[1]]
