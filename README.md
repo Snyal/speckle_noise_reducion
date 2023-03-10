@@ -14,17 +14,17 @@ https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/down
 Les modèles utilisés :
 (pour essayer ces modèles utiliser les fichiers .ipynb)
 
-DLSR : 
+- DLSR : 
 https://github.com/faisalml/DeepLSR
 Vous pouvez trouver les resultats du DLSR dans `data/results/DLSR`
-    -compare : est la concaténation de l'image bruitée et débruitée
-    -final : est l'image débruité
-    -new : est l'image debruité avant le decoupage
+    * compare : est la concaténation de l'image bruitée et débruitée
+    * final : est l'image débruité
+    * new : est l'image debruité avant le decoupage
 
-RDUNET :
+- RDUNET :
 https://github.com/JavierGurrola/RDUNet
 
-DnCNN / BSRGAN : 
+- DnCNN / BSRGAN : 
 https://github.com/cszn/KAIR
 
 Les resultats sont disponibles ici (un appercu est disponible dans le dossier result):
