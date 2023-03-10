@@ -1,3 +1,7 @@
+VERRIER Thomas
+BORDES Alexandre
+
+--- INFO ---
 
 Tous les fichiers disponible pour faire marcher les .pynb sont sur : 
 https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sharing
