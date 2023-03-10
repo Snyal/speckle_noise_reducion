@@ -1,4 +1,4 @@
-VERRIER Thomas
+VERRIER Thomas  
 BORDES Alexandre
 
 --- INFO ---
@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sha
 Lien pour accéder aux images de test : 
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/download?datasetVersionNumber=1
 
-Les modèles utilisés :
+Les modèles utilisés :  
 (pour essayer ces modèles utiliser les fichiers .ipynb)
 
 - DLSR : 
