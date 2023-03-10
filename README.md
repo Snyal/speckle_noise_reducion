@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sha
 
 (il reste a votre charge de bien configurer les chemins d'accès)
 
-Lien pour accéder aux images de test : 
+Lien pour accéder aux images de test :  
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/download?datasetVersionNumber=1
 
 Les modèles utilisés :  
@@ -27,7 +27,7 @@ https://github.com/JavierGurrola/RDUNet
 - DnCNN / BSRGAN : 
 https://github.com/cszn/KAIR
 
-Les resultats sont disponibles ici (un appercu est disponible dans le dossier result):  
+Les résultats sont disponibles ici (un appercu est disponible dans le dossier `./results`):  
 https://drive.google.com/drive/folders/1vqLuvH4jQ5YR-P5_dBqRRocuRf0FBFLW?usp=share_link
 
 
