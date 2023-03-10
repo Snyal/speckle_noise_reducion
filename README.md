@@ -2,10 +2,9 @@ VERRIER Thomas
 BORDES Alexandre
 
 ## Speckle noise reduction by DNN approch
-![presentation](final_image.png)
 ![presentation](results/final_image_DLSR.png)
 
---- INFO ---
+**--- INFO ---**
 
 Tous les fichiers disponible pour faire marcher les .pynb sont sur : 
 https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sharing
