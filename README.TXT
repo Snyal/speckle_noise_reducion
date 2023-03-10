@@ -16,7 +16,7 @@ Les modèles utilisés :
 
 DLSR : 
 https://github.com/faisalml/DeepLSR
-Vous pouvez trouver les resultats du DLSR dans data/results/DLSR
+Vous pouvez trouver les resultats du DLSR dans `data/results/DLSR`
     -compare : est la concaténation de l'image bruitée et débruitée
     -final : est l'image débruité
     -new : est l'image debruité avant le decoupage
