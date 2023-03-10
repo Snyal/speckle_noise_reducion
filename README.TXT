@@ -1,5 +1,5 @@
 
-Tous les fichiers disponible pour faire marcher les pynb sont sur : 
+Tous les fichiers disponible pour faire marcher les .pynb sont sur : 
 https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sharing
 
 (il reste a votre charge de bien configurer les chemains d'accès)
