@@ -18,7 +18,7 @@ for image_data in images_data:
     img_path = os.path.join(path, img_name)
  
     img = cv2.imread(img_path, 1)
- 
+    img = cv2.resize(img, dsize=(1024, 1024), interpolation=cv2.INTER_CUBIC)
 
     current_image = np.concatenate((current_image, img), axis=1)
 
