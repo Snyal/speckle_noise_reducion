@@ -6,13 +6,13 @@ BORDES Alexandre
 Tous les fichiers disponible pour faire marcher les .pynb sont sur : 
 https://drive.google.com/drive/folders/1XNnOYVZEzyqDjYsrrJQMzyRx70i-KAoH?usp=sharing
 
-(il reste a votre charge de bien configurer les chemains d'accès)
+(il reste a votre charge de bien configurer les chemins d'accès)
 
-Lien pour accerder aux images de test : 
+Lien pour accéder aux images de test : 
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/download?datasetVersionNumber=1
 
 Les modèles utilisés :
-(pour essayer ces modèle utiliser les fichier pynb)
+(pour essayer ces modèles utiliser les fichiers .ipynb)
 
 DLSR : 
 https://github.com/faisalml/DeepLSR
@@ -27,7 +27,7 @@ https://github.com/JavierGurrola/RDUNet
 DnCNN / BSRGAN : 
 https://github.com/cszn/KAIR
 
-Les resultats sont disponible ici (un appercu est disponible dans le dossier result):
+Les resultats sont disponibles ici (un appercu est disponible dans le dossier result):
 https://drive.google.com/drive/folders/1vqLuvH4jQ5YR-P5_dBqRRocuRf0FBFLW?usp=share_link
 
 
