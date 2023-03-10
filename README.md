@@ -2,7 +2,7 @@ VERRIER Thomas
 BORDES Alexandre
 
 ## Speckle noise reduction by DNN approch
-![presentation](results/final_image_DLSR.png)
+![presentation](results/final_image_GAN.png)
 
 **--- INFO ---**
 
