@@ -1,6 +1,9 @@
 VERRIER Thomas  
 BORDES Alexandre
 
+## Speckle noise reduction by DNN approch
+![presentation](results/final_image_DLSR.png)
+
 --- INFO ---
 
 Tous les fichiers disponible pour faire marcher les .pynb sont sur : 
@@ -14,8 +17,8 @@ https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/down
 Les modèles utilisés :  
 (pour essayer ces modèles utiliser les fichiers .ipynb)
 
-- **DLSR** : 
-https://github.com/faisalml/DeepLSR
+- **DLSR** :  
+https://github.com/faisalml/DeepLSR  
 Vous pouvez trouver les resultats du DLSR dans `data/results/DLSR`
     * compare : est la concaténation de l'image bruitée et débruitée
     * final : est l'image débruité
