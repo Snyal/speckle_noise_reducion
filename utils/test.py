@@ -15,7 +15,7 @@ percent = 0.1
 
 for name in names :
 
-    if count > 30 : 
+    if count > 1 : 
         break
 
     path_img = os.path.join(path, name)
@@ -25,7 +25,7 @@ for name in names :
     img = resize(img, (1024, 1024), anti_aliasing=True)
     noise_img = skimage.util.random_noise(img, mode='speckle', var=0.1)
 
-    plt.imsave(path_save_img, noise_img, cmap='gray')
+    plt.imsave("./test.png", noise_img, cmap='gray')
 
     print(str(count)+"/"+str(len(names)))
     count+=1

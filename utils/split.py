@@ -17,7 +17,6 @@ for image_data in images_data:
     img_base_path = os.path.join(path_base, img_name)
     img_size = image_data["size"]
 
-  
     img = cv2.imread(img_path, 1)
     img = cv2.resize(img, dsize=(1024, 1024), interpolation=cv2.INTER_CUBIC)
 
