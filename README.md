@@ -30,6 +30,8 @@ https://github.com/JavierGurrola/RDUNet
 - **DnCNN / BSRGAN** : 
 https://github.com/cszn/KAIR
 
+---
+
 Les résultats sont disponibles ici (un appercu est disponible dans le dossier `./results`):  
 https://drive.google.com/drive/folders/1vqLuvH4jQ5YR-P5_dBqRRocuRf0FBFLW?usp=share_link
 
