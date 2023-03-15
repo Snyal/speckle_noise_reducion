@@ -13,21 +13,17 @@ from skimage.metrics import mean_squared_error as mse
 from skimage.color import gray2rgb
 from skimage import img_as_ubyte
 
-save_path = "../data/results/test/DCNN3"
+save_path = "../data/results/test/GAN"
 path = os.path.join(save_path,"results")
 path_noise = "../data/custom_train_data/speckle_test"
 path_base ="../data/custom_train_data/process"
 images_names = os.listdir(path_noise)
 
-# font
+# Text settings
 font = cv2.FONT_HERSHEY_SIMPLEX
-# org
 org = (50, 100)
-# fontScale
 fontScale = 2
-# Blue color in BGR
 color = (255, 0, 0)
-# Line thickness of 2 px
 thickness = 5
 
 moy_psnr_noise = 0

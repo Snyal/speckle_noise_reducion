@@ -2,9 +2,8 @@ import json
 import cv2
 import numpy as np
 import os
-import time
 
-save_path = "../data/results/DLSR"
+save_path = "../data/results/DPIR"
 path = os.path.join(save_path,"results")
 path_base = "../US_data/Autres"
 file = open("../data.json")
@@ -13,7 +12,7 @@ images_data = data_total["images"]
 
 for image_data in images_data:
     img_name = image_data["name"]
-    img_path = os.path.join(path, img_name.split(".")[0]+'_fake_B.png')
+    img_path = os.path.join(path, img_name)
     img_base_path = os.path.join(path_base, img_name)
     img_size = image_data["size"]
 
@@ -28,6 +27,3 @@ for image_data in images_data:
 
     cv2.imwrite(os.path.join(os.path.join(save_path,"final"), img_name), new_image)
     cv2.imwrite(os.path.join(os.path.join(save_path,"compare"), img_name), compare_image)
-
-
-
