@@ -33,4 +33,5 @@ https://github.com/cszn/KAIR
 Les résultats sont disponibles ici (un appercu est disponible dans le dossier `./results`):  
 https://drive.google.com/drive/folders/1vqLuvH4jQ5YR-P5_dBqRRocuRf0FBFLW?usp=share_link
 
-
+Les images de test annotées, pour mesurer l'efficacité des différents réseaux, se trouvent dans le dossier `results/validation`
+https://drive.google.com/drive/folders/1vpdGTc8dUaJbY5kDCjMvvmBoKm3ZCabT?usp=share_link
