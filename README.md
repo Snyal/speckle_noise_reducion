@@ -36,4 +36,4 @@ Les résultats sont disponibles ici (un appercu est disponible dans le dossier `
 https://drive.google.com/drive/folders/1vqLuvH4jQ5YR-P5_dBqRRocuRf0FBFLW?usp=share_link
 
 Les images de test annotées, pour mesurer l'efficacité des différents réseaux, sont accessibles depuis ce lien :  
-https://drive.google.com/drive/folders/1vpdGTc8dUaJbY5kDCjMvvmBoKm3ZCabT?usp=share_link
+https://drive.google.com/drive/folders/1gNRNTNZgC3i-6H2ADFNk8JUGffxolgmf?usp=share_link
